@@ -10,4 +10,13 @@
 - [Git's Best And Most Unknown Feature](https://www.youtube.com/watch?v=2uEqYw-N8uE)
 - [What makes a good commit message Twitter thread](https://twitter.com/kuizinas/status/1541496585275727875)
 
+## PHP
 
+- [PHP The Right Way](https://phptherightway.com/)
+- [Phinx docs. You will need these for creating Database migrations](https://book.cakephp.org/phinx/0/en/index.html)
+- [PHPUnit docs. A great reference that you will use a lot](https://phpunit.readthedocs.io/en/9.5/installation.html)
+
+## Our Environments
+
+- [A conference talk from our own Scott Dutton on the code quality tools we use at Sykes (helpful for understanding our build processes)](https://www.youtube.com/watch?v=MmoZz_j2Y1A&t=671s)
+- [A Docker crash course from our own James Lockhart](https://www.youtube.com/watch?v=zIOqJhlk9VY&list=PL16WqdAj66SBSLZ2-TrZ5q_39UhtKyL9U)
