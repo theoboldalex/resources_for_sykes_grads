@@ -1,3 +1,14 @@
+# Resources for Sykes new grads
+
+Welcome to the team, I have tried to keep this as platform agnostic as possible. However, I am on a mac
+so some of what is listed below (especially in the temronal section) may need some alteration depending on you chosen OS.
+
+Also, disclaimer. There are some very opinionated choices in here so I can only advise that you try things out and see what works for you.
+Hopefully you find some gems here.
+
+Finally, if you are interested in learning Vim 🥷. I'd be happy to answer any questions you have and help to get a solid config setup for working with 
+our projects.
+
 ## Git
 
 - [Git Pro (The Official Git Book)](https://git-scm.com/book/en/v2)
