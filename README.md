@@ -36,11 +36,12 @@
 
 ## Terminal
 
+- [The terminal theme I keep getting asked about](https://github.com/herrbischoff/iterm2-gruvbox)
 - [Execute artisan from anywhere within the project file tree](https://github.com/jessarcher/zsh-artisan)
 - Alias all the things - Especially alias cd to project dirs. Saves loads of time.
-```
-alias zshrc="vim ~/.zshrc"
-alias srczsh="source ~/.zshrc"
+```bash
+alias zshrc="vim $HOME/zshrc"
+alias srczsh="source $HOME/zshrc"
 
 alias ga="git add"
 alias gcm="git commit -m"
@@ -61,7 +62,7 @@ alias ci="composer install"
 
 - Embrace [OhMyZSH](https://ohmyz.sh/) and the [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) plugin
 - Learn to spin up containers for quick tests
-```
+```bash
 d run --platform=linux/amd64 --rm -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root mysql:5.7
 ```
 - Fall in love with [RipGrep](https://github.com/BurntSushi/ripgrep)
