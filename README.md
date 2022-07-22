@@ -25,7 +25,7 @@
 
 - Alias all the things - TODO: add repo aliases
 ```
-alias zshrc="nvim ~/.zshrc"
+alias zshrc="vim ~/.zshrc"
 alias srczsh="source ~/.zshrc"
 
 alias ga="git add"
