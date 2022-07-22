@@ -20,3 +20,29 @@
 - [A conference talk from our own Scott Dutton on the code quality tools we use at Sykes (helpful for understanding our build processes)](https://www.youtube.com/watch?v=MmoZz_j2Y1A&t=671s)
 - [A Docker crash course from our own James Lockhart](https://www.youtube.com/watch?v=zIOqJhlk9VY&list=PL16WqdAj66SBSLZ2-TrZ5q_39UhtKyL9U)
 - [BitBucket Pipeline Validator. Check here if you ever make changes to a pipline](https://bitbucket-pipelines.atlassian.io/validator)
+
+## Tips for setting up you local machine
+
+- Alias all the things - TODO: add repo aliases
+```
+alias zshrc="nvim ~/.zshrc"
+alias srczsh="source ~/.zshrc"
+
+alias ga="git add"
+alias gcm="git commit -m"
+alias gs="git status"
+alias gp="git push"
+alias nah='git reset --hard;git clean -df'
+
+alias d="docker"
+alias dc="docker-compose"
+alias dps="docker ps"
+alias art="php artisan"
+
+alias c="composer"
+alias cu="composer update"
+alias cr="composer require"
+alias ci="composer install"
+```
+
+- Embrace [OhMyZSH](https://ohmyz.sh/) and the [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) plugin
