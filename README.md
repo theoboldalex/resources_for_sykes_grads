@@ -66,3 +66,12 @@ alias ci="composer install"
 d run --platform=linux/amd64 --rm -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root mysql:5.7
 ```
 - Fall in love with [RipGrep](https://github.com/BurntSushi/ripgrep)
+- Create a very basic .vimrc config for when you need to use vim (or go wild with it and join the neovim elites).
+```
+set number
+set noswapfile
+set shiftwidth=4
+set scrolloff=10
+set nowrap
+set autoindent
+```
