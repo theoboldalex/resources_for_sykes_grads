@@ -18,9 +18,6 @@
 - [A list of awesome PHP things](https://github.com/ziadoz/awesome-php)
 - [Docker image providing static analysis tools for PHP](https://github.com/jakzal/phpqa)
 
-## Terminal
-
-- [Execute artisan from anywhere within the project file tree](https://github.com/jessarcher/zsh-artisan)
 
 ## Our Environments
 
@@ -37,8 +34,9 @@
 
 - [Katalyst TDD Katas](https://katalyst.codurance.com/browse)
 
-## Tips for setting up you local machine
+## Terminal
 
+- [Execute artisan from anywhere within the project file tree](https://github.com/jessarcher/zsh-artisan)
 - Alias all the things - Especially alias cd to project dirs. Saves loads of time.
 ```
 alias zshrc="vim ~/.zshrc"
