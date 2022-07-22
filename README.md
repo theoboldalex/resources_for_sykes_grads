@@ -1,7 +1,7 @@
 # Resources for Sykes new grads
 
 Welcome to the team, I have tried to keep this as platform agnostic as possible. However, I am on a mac
-so some of what is listed below (especially in the temronal section) may need some alteration depending on you chosen OS.
+so some of what is listed below (especially in the terminal section) may need some alteration depending on you chosen OS.
 
 Also, disclaimer. There are some very opinionated choices in here so I can only advise that you try things out and see what works for you.
 Hopefully you find some gems here.
@@ -23,12 +23,12 @@ our projects.
 ## PHP
 
 - [PHP The Right Way](https://phptherightway.com/)
+- [Start as you mean to go on. PHP-FIG sets out standards that we should follow as a community](https://www.php-fig.org/)
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 - [Phinx docs. You will need these for creating Database migrations](https://book.cakephp.org/phinx/0/en/index.html)
 - [PHPUnit docs. A great reference that you will use a lot](https://phpunit.readthedocs.io/en/9.5/installation.html)
 - [A list of awesome PHP things](https://github.com/ziadoz/awesome-php)
 - [Docker image providing static analysis tools for PHP](https://github.com/jakzal/phpqa)
-
 
 ## Our Environments
 
@@ -44,9 +44,12 @@ our projects.
 ## TDD
 
 - [Katalyst TDD Katas](https://katalyst.codurance.com/browse)
+- [Test Driven Laravel Conference talk (Adam Wathan's course of the same name is also awesome)](https://www.youtube.com/watch?v=MdApmmK71WM)
 
 ## Terminal
 
+- Get a [proper terminal](https://iterm2.com/). Alacritty, Kitty and Hyper are also worth a look if you don't get on with iterm.
+---
 - [The terminal theme I keep getting asked about](https://github.com/herrbischoff/iterm2-gruvbox)
 ---
 - [Execute artisan from anywhere within the project file tree](https://github.com/jessarcher/zsh-artisan)
