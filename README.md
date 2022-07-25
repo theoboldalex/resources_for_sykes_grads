@@ -29,6 +29,7 @@ our projects.
 - [PHPUnit docs. A great reference that you will use a lot](https://phpunit.readthedocs.io/en/9.5/installation.html)
 - [A list of awesome PHP things](https://github.com/ziadoz/awesome-php)
 - [Docker image providing static analysis tools for PHP](https://github.com/jakzal/phpqa)
+- [Setup XDebug with Docker and PHPStorm](https://www.youtube.com/watch?v=4opFac50Vwo)
 
 ## Our Environments
 
@@ -85,7 +86,7 @@ d run --platform=linux/amd64 --rm -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root my
 ---
 - Fall in love with [RipGrep](https://github.com/BurntSushi/ripgrep)
 ---
-- Create a very basic .vimrc config for when you need to use vim (or go wild with it and join the neovim elites).
+- Create a very basic .vimrc config for when you need to use vim (or go wild with it and become an elitist).
 ```
 set number
 set noswapfile
