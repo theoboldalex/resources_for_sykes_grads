@@ -30,6 +30,7 @@ our projects.
 - [A list of awesome PHP things](https://github.com/ziadoz/awesome-php)
 - [Docker image providing static analysis tools for PHP](https://github.com/jakzal/phpqa)
 - [Setup XDebug with Docker and PHPStorm](https://www.youtube.com/watch?v=4opFac50Vwo)
+- [What does this PHP operator do?](https://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php)
 
 ## Our Environments
 
