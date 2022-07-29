@@ -48,6 +48,10 @@ our projects.
 - [Katalyst TDD Katas](https://katalyst.codurance.com/browse)
 - [Test Driven Laravel Conference talk (Adam Wathan's course of the same name is also awesome)](https://www.youtube.com/watch?v=MdApmmK71WM)
 
+## Design
+
+- [PHP Design Patterns](https://designpatternsphp.readthedocs.io/en/latest/README.html)
+
 ## Terminal
 
 - Get a [proper terminal](https://iterm2.com/). Alacritty, Kitty and Hyper are also worth a look if you don't get on with iterm.
