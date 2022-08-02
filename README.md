@@ -41,7 +41,7 @@ our projects.
 
 ## Database
 
-- [Use the Index Luke! A guide to Database Perfoemance for Developers](https://use-the-index-luke.com/)
+- [Use the Index Luke! A Guide to Database Performance for Developers](https://use-the-index-luke.com/)
 
 ## AWS
 
