@@ -7,7 +7,6 @@
 - [Git Legit](https://www.youtube.com/watch?v=O7LAeqng-SI)
 - [13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o)
 - [Git Good](https://www.youtube.com/watch?v=Uk5TnFL7jh4)
-- [Using Vim: Vim + Git - Fugitive Part 1 - Usage and Merge Conflicts](https://www.youtube.com/watch?v=PO6DxfGPQvw)
 - [Git's Best And Most Unknown Feature](https://www.youtube.com/watch?v=2uEqYw-N8uE)
 - [What makes a good commit message Twitter thread](https://twitter.com/kuizinas/status/1541496585275727875)
 
@@ -23,6 +22,11 @@
 - [Setup XDebug with Docker and PHPStorm](https://www.youtube.com/watch?v=4opFac50Vwo)
 - [What does this PHP operator do?](https://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php)
 
+## Frameworks
+
+- [Laravel Bootcamp](https://bootcamp.laravel.com/)
+- [Symfony "The Book"](https://symfony.com/doc/6.4/the-fast-track/en/index.html)
+
 ## Our Environments
 
 - [A conference talk from our own Scott Dutton on the code quality tools we use at Sykes (helpful for understanding our build processes)](https://www.youtube.com/watch?v=MmoZz_j2Y1A&t=671s)
@@ -33,6 +37,7 @@
 ## Database
 
 - [Use the Index Luke! A Guide to Database Performance for Developers](https://use-the-index-luke.com/)
+- [MySQL for Developers video course](https://planetscale.com/learn/courses/mysql-for-developers)
 
 ## AWS
 
