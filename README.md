@@ -50,4 +50,4 @@
 
 ## Design
 
-- [PHP Design Patterns](https://designpatternsphp.readthedocs.io/en/latest/README.html)
+- [Design Patterns](https://refactoring.guru/)
