@@ -1,8 +1,5 @@
 # Resources for Sykes new grads
 
-Welcome to the team, I have tried to keep this as platform agnostic as possible. However, I am on a mac
-so some of what is listed below (especially in the terminal section) may need some alteration depending on you chosen OS.
-
 ## Git
 
 - [Git Pro (The Official Git Book)](https://git-scm.com/book/en/v2)
