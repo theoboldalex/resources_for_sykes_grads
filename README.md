@@ -3,12 +3,6 @@
 Welcome to the team, I have tried to keep this as platform agnostic as possible. However, I am on a mac
 so some of what is listed below (especially in the terminal section) may need some alteration depending on you chosen OS.
 
-Also, disclaimer. There are some very opinionated choices in here so I can only advise that you try things out and see what works for you.
-Hopefully you find some gems here.
-
-Finally, if you are interested in learning Vim 🥷. I'd be happy to answer any questions you have and help to get a solid config setup for working with 
-our projects.
-
 ## Git
 
 - [Git Pro (The Official Git Book)](https://git-scm.com/book/en/v2)
@@ -55,52 +49,3 @@ our projects.
 ## Design
 
 - [PHP Design Patterns](https://designpatternsphp.readthedocs.io/en/latest/README.html)
-
-## Terminal
-
-- Get a [proper terminal](https://iterm2.com/). Alacritty, Kitty and Hyper are also worth a look if you don't get on with iterm.
----
-- [The terminal theme I keep getting asked about](https://github.com/herrbischoff/iterm2-gruvbox)
----
-- [Execute artisan from anywhere within the project file tree](https://github.com/jessarcher/zsh-artisan)
----
-- Alias all the things - Especially alias cd to project dirs. Saves loads of time.
-```bash
-alias zshrc="vim $HOME/zshrc"
-alias srczsh="source $HOME/zshrc"
-
-alias ga="git add"
-alias gcm="git commit -m"
-alias gs="git status"
-alias gp="git push"
-alias nah='git reset --hard;git clean -df'
-
-alias d="docker"
-alias dc="docker-compose"
-alias dps="docker ps"
-alias art="php artisan"
-
-alias c="composer"
-alias cu="composer update"
-alias cr="composer require"
-alias ci="composer install"
-```
----
-- Embrace [OhMyZSH](https://ohmyz.sh/) and the [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) plugin
----
-- Learn to spin up containers for quick tests
-```bash
-d run --platform=linux/amd64 --rm -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root mysql:5.7
-```
----
-- Fall in love with [RipGrep](https://github.com/BurntSushi/ripgrep)
----
-- Create a very basic .vimrc config for when you need to use vim (or go wild with it and become an elitist).
-```
-set number
-set noswapfile
-set shiftwidth=4
-set scrolloff=10
-set nowrap
-set autoindent
-```
